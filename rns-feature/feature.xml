@@ -2,7 +2,7 @@
 <feature
       id="rns.feature"
       label="Role Normalization and Synthesis"
-      version="1.0.0.qualifier"
+      version="0.1.1.qualifier"
       provider-name="HawkinsSoftware">
 
    <description url="http://www.example.com/description">
